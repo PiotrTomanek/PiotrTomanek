@@ -10,12 +10,12 @@ As a Certified Passive House Designer, I’m passionate about applying rigorous 
 * **Design & Technology:** Using tools like Grasshopper, Rhino, Blender and web development to bridge the gap between technical specs and visual storytelling.
   
   <p align="left">
-    <img src="https://img.shields.io/badge/Rhino_3D-1C1C1C?style=for-the-badge" alt="Rhino" />
-    <img src="https://img.shields.io/badge/Grasshopper-008A00?style=for-the-badge" alt="Grasshopper" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <a href="https://www.rhino3d.com/"><img src="https://img.shields.io/badge/Rhino_3D-1C1C1C?style=for-the-badge" alt="Rhino" /></a>
+    <a href="https://www.grasshopper3d.com/"><img src="https://img.shields.io/badge/Grasshopper-008A00?style=for-the-badge" alt="Grasshopper" /></a>
+    <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
   </p>
 
 * **Problem Solving:** Building functional tools, like my recent project developing a unit conversion app.
